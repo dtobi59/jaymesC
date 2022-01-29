@@ -4,8 +4,8 @@
 
 
 
-<!-- - 🔭 I’m currently working on building -->
-- 🌱 I’m currently working Blockchain Technology and Web3.0
+- 🔭 Frontend Developer || Blockchain Enthusiast.
+- 🌱 I’m currently working on Blockchain Technology and Web 3.0
 - 👯 I’m looking to collaborate on different new projects that will change the world
 <!-- - 😄 
 - ⚡ Fun fact: I'm  -->
